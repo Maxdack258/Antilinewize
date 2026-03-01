@@ -1,2 +1,22 @@
-# AntiLinewize
-This is a website project I created basically for fun. In our school, students are constantly controlled and dictated through a military-grade security chromebook and extensions such as linewize or Quoria, as well as many uncountable policies to prevent any form of unblockage. Well, I found many ways around, but just for extensions, because chromebooks are very secure and invulnerable to bypassing, at least on latest versions. I created this website as a beggining for revolution, as a message to teachers and parents: we didn't want a dictatorship on our school.
+# Antilinewize
+
+You can access the project online at: [antilinewize.pages.dev](https://antilinewize.pages.dev)
+
+## Local Development
+
+To run this project locally, follow these steps:
+
+1. Navigate to the project directory:
+   ```bash
+   cd Antilinewize
+   ```
+
+2. Install the dependencies (if you haven't already):
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```

@@ -1,2 +1,2 @@
-# cognipath-frontend
-This is a website project I was creating about AI implementation on schools.
+# AntiLinewize
+This is a website project I created basically for fun. In our school, students are constantly controlled and dictated through a military-grade security chromebook and extensions such as linewize or Quoria, as well as many uncountable policies to prevent any form of unblockage. Well, I found many ways around, but just for extensions, because chromebooks are very secure and invulnerable to bypassing, at least on latest versions. I created this website as a beggining for revolution, as a message to teachers and parents: we didn't want a dictatorship on our school.
